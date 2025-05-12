@@ -1,6 +1,6 @@
 # Verilog---Electronic-Level
 
-This is 3 steps in for creating an electronic level.
+This is 3 steps in for creating an electronic level design for FPGA Terasic DE10 Lite
 
 -> Step 0 <-
 Display a circle moving in a circular (roundabout) pattern on a 6x7 segment display.
